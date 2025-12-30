@@ -25,3 +25,7 @@ public class maxSubarraysSum {
         max_Subarrays_Sum(nums);
     }
 }
+
+
+//bruteforce approach
+// time complexity = 0(n^3)
