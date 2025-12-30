@@ -20,6 +20,5 @@ public class largestAndSmallestNumber {
     public static void main(String args[]){
         int nums[] = {1, 2, 6, 3, 5};
         System.out.println("largest number is " + largest_number(nums));
-
     }
 }
