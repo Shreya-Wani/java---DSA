@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class largestAndSmallestNumber {
 
     public static int largest_number(int nums[]){
